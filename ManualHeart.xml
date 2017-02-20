@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Disease name="Heart Disease">
+  <needsNutrient>
+    <Nutrient>
+      <name>triglyceride</name>
+    </Nutrient>
+	<Nutrient>
+      <name>iron</name>
+    </Nutrient>	
+	<Nutrient>
+      <name>fiber</name>
+    </Nutrient>
+	<Nutrient>
+      <name>B vitamins</name>
+    </Nutrient>
+	</needsNutrient>
+  <excessNutrient>
+    <Nutrient>
+      <name>sodium</name>
+	  <value>2000</value>
+    </Nutrient>
+	<Nutrient>
+      <name>fat</name>
+    </Nutrient>
+	<Nutrient>
+      <name>cholestrol</name>
+	  <value>300</value>
+    </Nutrient>
+	<Nutrient>
+      <name>potassium</name>
+    </Nutrient>
+  </excessNutrient>
+</Disease>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Disease name="Chronic Kidney Disease">
+  <needsNutrient>
+   <Nutrient>
+      <name>calcium</name>
+    </Nutrient>
+	<Nutrient>
+      <name>Iron</name>
+    </Nutrient>
+	<Nutrient>
+      <name>Fiber</name>
+    </Nutrient>
+  </needsNutrient>
+  <excessNutrient>
+    <Nutrient>
+      <name>glucose</name>
+    </Nutrient>
+    <Nutrient>
+      <name>potassium</name>
+    </Nutrient>
+    <Nutrient>
+      <name>phosphorus</name>
+    </Nutrient>
+	<Nutrient>
+      <name>fat</name>
+    </Nutrient>
+	<Nutrient>
+      <name>sodium</name>
+	  <value>100</value>
+    </Nutrient>
+	<Nutrient>
+      <name>protein</name>
+    </Nutrient>
+  </excessNutrient>
+</Disease>

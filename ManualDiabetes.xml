@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Disease name="Diabetes">
+  <needsNutrient>
+    <Nutrient>
+      <name>fat</name>
+      <value>16</value>
+    </Nutrient>
+	<Nutrient>
+      <name>protein</name>
+      <value>20</value>
+    </Nutrient>
+	<Nutrient>
+      <name>fiber</name>
+      <value>20</value>
+    </Nutrient>
+  </needsNutrient>
+  <excessNutrient>
+    <Nutrient>
+      <name>glucose</name>
+    </Nutrient>
+    <Nutrient>
+      <name>cholesterol</name>
+      <value>200</value>
+    </Nutrient>
+    <Nutrient>
+      <name>sugar</name>
+    </Nutrient>
+  </excessNutrient>
+</Disease>
